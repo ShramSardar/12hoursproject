@@ -1,0 +1,39 @@
+.button {
+    background-color: #5474FD;
+    color: white;
+
+    &__explore {
+        background-color: #5474FD;
+        opacity: 75%;
+        max-width: 225px;
+        min-height: 66px;
+    }
+
+    &__book {
+        width: 228px;
+        height: 63px;
+        background-color: #5474FD;
+        margin-top: 15px;
+    }
+
+    &__search {
+        width: 153px; 
+        height: 50px;
+    }
+}
+
+.submit{
+    width: 153px;
+    height: 63px;
+    border: white 1px solid;
+    background-color: #5474FD;
+    font-family: "Aleo", serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
